@@ -15,7 +15,7 @@ notations and commons were given at the beginning of each section which
 explains the function of each section. 
 
 
-One .ipynb file:
+Census_Income_Prediction.ipynb file:
 This file requires Jupyter notebook to open, where you just need to upload the file to Jupyter notebook and each section is showed. However, if you run by this way, you need to have the correct path setting for the two csv file( the dataset file). Make sure the code is able to access the data file, otherwise it will not run properly. 
 
 
